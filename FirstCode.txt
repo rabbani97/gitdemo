@@ -2,6 +2,8 @@ Hello World!!!
 
 Rabbani Shaik
 
+take input from user
+add the values 
 
 
 
