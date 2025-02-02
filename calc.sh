@@ -6,21 +6,14 @@
 #!/bin/bash
 
 # addition of 2 numbers
-x=$((1 + 2))
-echo "Addition: $x"
 
-# Subtraction
-y=$((5 - 3))
-echo "Subtraction: $y"
+x = 1+2 
+
+# Substraction
 
 # Division
-z=$((10 / 2))
-echo "Division: $z"
-
-# Percentage
-p=$((50 * 20 / 100))
-echo "Percentage: $p"
+# percentage
+# This is a test change
 
 # Multiplication
-m=$((4 * 3))
-echo "Multiplication: $m"
+
