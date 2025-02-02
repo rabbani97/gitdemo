@@ -1,2 +1,8 @@
-add and remove users
-change the roles
+s
+
+
+change the role
+
+
+
+added thedev s
